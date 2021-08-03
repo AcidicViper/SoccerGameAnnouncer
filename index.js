@@ -1,9 +1,8 @@
 const Discord = require('discord.js')
-const TextDate = require('./textdate.js')
-const MatchData = require('../acid-first-bot/matchdata.js')
 const rp = require('request-promise');
 const cheerio = require('cheerio');
-const fs = require('fs');
+
+const MatchData = require('../acid-first-bot/matchdata.js')
 
 const client = new Discord.Client();
 
