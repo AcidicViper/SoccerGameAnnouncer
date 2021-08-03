@@ -33,7 +33,12 @@ Request       | npm i request
 Request-Promise       | npm i request-promise
 Cheerio    | npm i cherrio
 
+## Contact ##
 
+Discord: AcidViper#5194 (I reply fastest on here)
+
+
+Email: Davidliernur@gmail.com
 
 ##  License ##
 Copyright 2021 David Liernur
