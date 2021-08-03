@@ -13,9 +13,15 @@ Details including teams playing, date, and time. This is my first ever JavaScrip
 
 La Liga Example
 
+![Capture](https://user-images.githubusercontent.com/59324927/127941820-a252ad89-3919-4909-9f24-2e6fadd66716.PNG)
+
 Premier League Example
 
+![image](https://user-images.githubusercontent.com/59324927/127941864-debc3510-c24f-40c7-9f5a-3f1478a0704e.png)
+
 Ligue One Example
+
+![image](https://user-images.githubusercontent.com/59324927/127941880-411ef871-5c98-4c41-97e1-3a25606432b4.png)
 
 
 
