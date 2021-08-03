@@ -1,7 +1,7 @@
 # SoccerGameAnnouncer
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Description #
+### Description ###
 
 This is a discord bot that tells you the details about the upcoming game for each league (Only leagues right now are Ligue One, Premier League, and La Liga). 
 Details including teams playing, date, and time. This is my first ever JavaScript project.
