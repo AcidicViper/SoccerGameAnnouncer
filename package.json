@@ -1,0 +1,20 @@
+{
+  "name": "acid-first-bot",
+  "version": "1.0.0",
+  "description": "My first discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "No tests.." && exit 1"
+  },
+  "author": "AcidViper",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "discord.js": "^12.5.3",
+    "jsdom": "^16.7.0",
+    "nodemon": "^2.0.12",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
